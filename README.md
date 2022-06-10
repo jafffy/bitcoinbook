@@ -64,3 +64,5 @@ The tags, [second_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/re
 If you are interested in translating this book, please join our team of volunteers at: https://www.transifex.com/aantonop/mastering-bitcoin
 
 Free copies of "Mastering Bitcoin Open Edition," translated in many languages, can be downloaded from: https://bitcoinbook.info
+
+Hi!!!
